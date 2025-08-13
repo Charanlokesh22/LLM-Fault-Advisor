@@ -16,21 +16,27 @@ Features
 - Works locally without massive GPU requirements
 
 
-Tech Stack
--Python
--Hugging Face Transformers
--LangChain
--FAISS
--FastAPI
--spaCy
-
+Tech Stack:
+- Python
+- Hugging Face Transformers
+- LangChain
+- FAISS
+- FastAPI
+- spaCy
 
 Installation:
 
 bash
+# Clone the repository
 git clone https://github.com/Charanlokesh22/llm-fault-detection.git
+
+# Navigate into the project folder
 cd llm-fault-detection
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Download spaCy language model
 python -m spacy download en_core_web_sm
 
 
