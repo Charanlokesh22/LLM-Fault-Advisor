@@ -1,0 +1,4 @@
+fault_id,fault_description,maintenance_action
+1,Motor overheating due to continuous load,Reduce load and allow cooling
+2,Oil leakage in hydraulic system,Replace seals and check pump
+3,Abnormal vibration in conveyor belt,Check alignment and replace worn rollers
