@@ -1,0 +1,12 @@
+llm-fault-detection/
+│
+├── app.py
+├── rag_pipeline.py
+├── ner_module.py
+├── inference.py
+├── config.py
+├── requirements.txt
+├── README.md
+│
+└── data/
+    └── sample_fault_logs.csv
