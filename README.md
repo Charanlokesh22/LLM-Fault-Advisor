@@ -27,16 +27,16 @@ Tech Stack:
 Installation:
 
 bash
-# Clone the repository
+Clone the repository
 git clone https://github.com/Charanlokesh22/llm-fault-detection.git
 
-# Navigate into the project folder
+ Navigate into the project folder
 cd llm-fault-detection
 
-# Install dependencies
+ Install dependencies
 pip install -r requirements.txt
 
-# Download spaCy language model
+ Download spaCy language model
 python -m spacy download en_core_web_sm
 
 
