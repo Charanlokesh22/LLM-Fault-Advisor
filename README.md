@@ -26,7 +26,8 @@ Tech Stack:
 
 Installation:
 
-bash
+bash:- 
+
 Clone the repository
 git clone https://github.com/Charanlokesh22/llm-fault-detection.git
 
