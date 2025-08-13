@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+langchain
+faiss-cpu
+pandas
+scikit-learn
+torch
+spacy
+python-dotenv
